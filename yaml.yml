@@ -1,0 +1,23 @@
+# I need a pyton script that will take a list of numbers that map to ports: and loopthrough them to assigne the primary: sequencially through a list. With the output format looking like:
+
+---
+interfaces:
+  - details:
+      description:
+      port:
+      bandwidth:
+      ip_mtu: 9100
+      ip_unnumbered: null
+      ipv4_prefix:
+        primary: 
+        secondary:
+        virtual:
+      mtu: 9100
+      speed:
+      shutdown: false
+      sub: null
+      vrf: gen
+    interface_type: routed
+    name: ethernet
+    security_zone:
+

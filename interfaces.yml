@@ -1,0 +1,9217 @@
+interfaces:
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.2/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/1/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.4/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/1/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.6/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/1/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.8/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/1/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.10/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/2/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.12/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/2/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.14/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/2/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.16/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/2/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.18/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/3/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.20/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/3/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.22/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/3/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.24/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/3/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.26/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/4/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.28/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/4/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.30/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/4/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.32/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/4/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.34/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/5/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.36/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/5/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.38/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/5/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.40/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/5/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.42/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/6/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.44/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/6/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.46/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/6/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.48/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/6/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.50/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/7/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.52/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/7/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.54/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/7/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.56/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/7/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.58/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/8/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.60/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/8/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.62/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/8/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.64/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/8/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.66/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/9/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.68/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/9/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.70/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/9/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.72/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/9/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.74/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/10/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.76/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/10/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.78/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/10/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.80/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/10/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.82/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/11/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.84/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/11/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.86/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/11/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.88/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/11/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.90/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/12/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.92/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/12/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.94/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/12/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.96/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/12/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.98/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/13/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.100/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/13/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.102/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/13/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.104/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/13/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.106/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/14/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.108/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/14/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.110/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/14/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.112/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/14/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.114/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/15/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.116/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/15/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.118/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/15/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.120/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/15/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.122/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/16/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.124/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/16/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.126/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/16/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.128/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/16/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.130/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/17/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.132/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/17/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.134/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/17/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.136/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/17/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.138/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/18/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.140/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/18/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.142/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/18/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.144/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/18/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.146/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/19/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.148/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/19/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.150/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/19/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.152/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/19/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.154/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/20/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.156/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/20/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.158/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/20/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.160/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/20/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.162/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/21/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.164/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/21/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.166/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/21/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.168/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/21/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.170/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/22/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.172/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/22/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.174/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/22/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.176/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/22/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.178/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/23/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.180/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/23/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.182/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/23/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.184/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/23/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.186/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/24/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.188/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/24/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.190/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/24/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.192/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/24/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.194/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/25/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.196/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/25/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.198/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/25/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.200/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/25/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.202/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/26/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.204/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/26/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.206/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/26/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.208/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/26/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.210/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/27/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.212/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/27/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.214/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/27/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.216/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/27/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.218/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/28/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.220/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/28/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.222/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/28/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.224/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/28/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.226/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/29/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.228/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/29/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.230/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/29/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.232/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/29/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.234/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/30/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.236/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/30/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.238/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/30/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.240/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/30/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.242/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/31/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.244/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/31/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.246/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/31/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.248/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/31/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.250/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/32/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.252/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/32/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.4.254/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/32/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.2/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e3/32/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.4/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/1/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.6/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/1/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.8/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/1/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.10/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/1/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.12/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/2/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.14/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/2/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.16/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/2/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.18/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/2/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.20/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/3/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.22/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/3/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.24/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/3/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.26/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/3/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.28/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/4/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.30/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/4/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.32/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/4/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.34/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/4/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.36/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/5/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.38/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/5/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.40/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/5/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.42/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/5/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.44/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/6/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.46/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/6/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.48/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/6/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.50/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/6/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.52/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/7/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.54/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/7/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.56/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/7/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.58/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/7/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.60/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/8/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.62/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/8/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.64/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/8/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.66/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/8/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.68/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/9/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.70/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/9/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.72/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/9/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.74/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/9/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.76/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/10/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.78/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/10/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.80/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/10/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.82/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/10/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.84/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/11/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.86/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/11/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.88/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/11/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.90/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/11/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.92/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/12/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.94/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/12/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.96/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/12/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.98/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/12/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.100/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/13/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.102/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/13/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.104/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/13/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.106/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/13/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.108/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/14/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.110/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/14/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.112/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/14/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.114/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/14/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.116/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/15/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.118/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/15/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.120/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/15/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.122/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/15/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.124/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/16/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.126/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/16/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.128/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/16/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.130/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/16/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.132/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/17/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.134/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/17/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.136/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/17/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.138/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/17/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.140/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/18/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.142/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/18/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.144/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/18/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.146/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/18/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.148/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/19/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.150/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/19/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.152/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/19/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.154/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/19/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.156/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/20/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.158/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/20/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.160/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/20/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.162/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/20/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.164/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/21/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.166/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/21/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.168/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/21/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.170/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/21/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.172/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/22/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.174/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/22/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.176/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/22/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.178/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/22/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.180/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/23/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.182/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/23/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.184/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/23/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.186/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/23/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.188/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/24/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.190/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/24/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.192/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/24/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.194/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/24/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.196/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/25/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.198/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/25/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.200/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/25/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.202/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/25/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.204/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/26/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.206/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/26/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.208/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/26/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.210/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/26/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.212/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/27/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.214/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/27/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.216/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/27/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.218/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/27/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.220/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/28/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.222/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/28/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.224/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/28/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.226/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/28/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.228/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/29/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.230/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/29/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.232/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/29/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.234/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/29/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.236/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/30/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.238/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/30/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.240/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/30/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.242/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/30/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.244/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/31/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.246/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/31/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.248/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/31/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.250/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/31/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.252/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/32/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.5.254/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/32/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.2/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/32/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.4/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e4/32/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.6/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/1/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.8/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/1/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.10/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/1/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.12/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/1/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.14/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/2/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.16/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/2/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.18/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/2/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.20/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/2/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.22/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/3/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.24/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/3/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.26/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/3/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.28/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/3/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.30/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/4/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.32/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/4/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.34/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/4/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.36/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/4/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.38/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/5/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.40/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/5/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.42/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/5/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.44/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/5/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.46/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/6/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.48/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/6/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.50/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/6/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.52/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/6/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.54/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/7/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.56/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/7/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.58/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/7/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.60/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/7/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.62/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/8/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.64/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/8/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.66/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/8/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.68/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/8/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.70/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/9/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.72/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/9/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.74/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/9/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.76/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/9/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.78/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/10/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.80/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/10/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.82/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/10/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.84/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/10/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.86/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/11/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.88/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/11/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.90/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/11/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.92/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/11/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.94/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/12/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.96/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/12/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.98/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/12/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.100/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/12/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.102/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/13/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.104/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/13/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.106/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/13/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.108/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/13/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.110/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/14/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.112/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/14/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.114/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/14/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.116/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/14/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.118/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/15/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.120/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/15/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.122/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/15/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.124/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/15/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.126/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/16/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.128/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/16/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.130/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/16/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.132/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/16/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.134/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/17/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.136/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/17/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.138/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/17/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.140/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/17/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.142/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/18/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.144/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/18/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.146/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/18/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.148/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/18/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.150/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/19/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.152/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/19/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.154/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/19/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.156/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/19/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.158/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/20/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.160/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/20/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.162/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/20/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.164/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/20/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.166/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/21/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.168/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/21/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.170/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/21/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.172/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/21/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.174/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/22/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.176/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/22/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.178/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/22/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.180/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/22/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.182/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/23/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.184/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/23/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.186/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/23/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.188/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/23/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.190/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/24/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.192/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/24/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.194/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/24/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.196/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/24/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.198/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/25/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.200/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/25/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.202/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/25/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.204/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/25/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.206/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/26/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.208/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/26/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.210/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/26/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.212/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/26/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.214/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/27/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.216/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/27/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.218/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/27/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.220/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/27/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.222/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/28/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.224/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/28/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.226/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/28/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.228/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/28/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.230/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/29/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.232/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/29/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.234/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/29/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.236/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/29/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.238/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/30/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.240/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/30/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.242/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/30/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.244/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/30/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.246/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/31/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.248/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/31/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.250/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/31/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.252/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/31/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.6.254/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/32/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.2/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/32/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.4/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/32/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.6/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e5/32/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.8/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/1/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.10/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/1/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.12/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/1/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.14/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/1/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.16/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/2/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.18/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/2/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.20/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/2/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.22/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/2/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.24/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/3/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.26/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/3/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.28/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/3/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.30/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/3/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.32/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/4/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.34/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/4/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.36/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/4/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.38/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/4/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.40/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/5/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.42/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/5/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.44/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/5/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.46/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/5/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.48/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/6/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.50/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/6/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.52/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/6/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.54/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/6/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.56/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/7/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.58/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/7/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.60/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/7/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.62/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/7/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.64/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/8/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.66/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/8/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.68/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/8/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.70/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/8/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.72/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/9/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.74/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/9/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.76/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/9/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.78/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/9/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.80/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/10/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.82/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/10/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.84/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/10/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.86/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/10/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.88/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/11/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.90/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/11/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.92/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/11/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.94/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/11/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.96/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/12/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.98/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/12/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.100/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/12/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.102/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/12/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.104/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/13/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.106/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/13/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.108/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/13/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.110/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/13/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.112/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/14/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.114/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/14/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.116/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/14/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.118/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/14/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.120/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/15/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.122/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/15/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.124/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/15/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.126/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/15/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.128/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/16/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.130/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/16/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.132/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/16/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.134/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/16/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.136/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/17/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.138/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/17/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.140/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/17/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.142/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/17/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.144/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/18/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.146/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/18/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.148/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/18/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.150/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/18/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.152/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/19/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.154/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/19/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.156/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/19/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.158/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/19/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.160/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/20/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.162/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/20/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.164/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/20/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.166/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/20/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.168/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/21/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.170/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/21/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.172/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/21/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.174/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/21/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.176/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/22/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.178/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/22/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.180/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/22/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.182/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/22/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.184/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/23/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.186/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/23/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.188/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/23/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.190/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/23/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.192/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/24/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.194/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/24/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.196/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/24/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.198/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/24/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.200/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/25/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.202/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/25/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.204/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/25/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.206/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/25/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.208/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/26/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.210/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/26/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.212/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/26/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.214/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/26/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.216/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/27/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.218/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/27/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.220/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/27/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.222/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/27/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.224/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/28/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.226/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/28/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.228/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/28/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.230/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/28/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.232/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/29/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.234/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/29/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.236/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/29/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.238/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/29/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.240/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/30/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.242/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/30/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.244/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/30/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.246/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/30/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.248/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/31/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.250/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/31/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.252/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/31/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.7.254/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/31/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.8.2/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/32/1
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.8.4/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/32/3
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.8.6/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/32/5
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
+- details:
+    bandwidth: 100G
+    description: link to leaf
+    ip_mtu: 9100
+    ip_unnumbered: null
+    ipv4_prefix:
+      primary: 169.254.8.8/24
+      secondary: ''
+      virtual: ''
+    mtu: 9100
+    port: e6/32/7
+    shutdown: false
+    speed: 100G
+    sub: null
+    vrf: gen
+  interface_type: routed
+  name: ethernet
+  security_zone: ''
